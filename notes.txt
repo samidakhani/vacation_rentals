@@ -1,0 +1,3 @@
+1)Table USER1 is created as there exist a default table USER in database.
+2)Table CATALOG1 is created to resolve mutivalued atribute 'Features' in 'VILLA' table.
+3)Table CHOICE is created to resolve mutivalued atribute 'Favorite_Villas' in 'USER1' table.
